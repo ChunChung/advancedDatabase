@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Hello Branch2
 And this would be a conflict.
+=======
 Hello Branch2 for conflict
+
+>>>>>>> branch2
